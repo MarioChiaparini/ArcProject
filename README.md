@@ -30,13 +30,16 @@ A variable called "tr" will get the method TrackGenerator() to proceed the segme
     <br>
 
 </p>
-     <p align="center">CLADDING</p>
-    <br>
+     <p align="center">CLADDING
+  <br>
     Σt  = [2.74144e-1, 2.80890e-1]
     <br>
     Σs0 = [2.72377e-1 1.90838e-4; 0.0e-0 2.77230e-1]
 <br>
- <p align="center">WATER</p>
-    Σt  = [6.40711e-1, 1.69131e-0]
+</p>
+ <p align="center">WATER
+  <br>
+Σt  = [6.40711e-1, 1.69131e-0]
     <br>
     Σs0 = [6.07382e-1 3.31316e-2; 0.0e-0 1.68428e-0]
+</p>

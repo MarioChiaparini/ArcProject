@@ -20,7 +20,7 @@ A variable called "tr" will get the method TrackGenerator() to proceed the segme
   
  After doing this, the next step is setting the variables for the reactor material the pin-fuel, water for cooling and the cladding:
  <br>
- <p align="center">PIN</p>
+ <p align="center">PIN
  <br>
     νΣf = [1.86278e-2, 3.44137e-1]
     <br>
@@ -28,6 +28,8 @@ A variable called "tr" will get the method TrackGenerator() to proceed the segme
     <br>
     Σs0 = [3.33748e-1  6.64881e-4; 0.0e-0 3.80898e-1]
     <br>
+
+</p>
      <p align="center">CLADDING</p>
     <br>
     Σt  = [2.74144e-1, 2.80890e-1]

@@ -44,3 +44,4 @@ A variable called "tr" will get the method TrackGenerator() to proceed the segme
     Σs0 = [6.07382e-1 3.31316e-2; 0.0e-0 1.68428e-0]
 </p>
 <br>
+With the material variables defined the next step is to use the solve method and write a vtk type of file, a typical one for simulated geometries. 

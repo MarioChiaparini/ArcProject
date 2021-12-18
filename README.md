@@ -46,5 +46,5 @@ A variable called "tr" will get the method TrackGenerator() to proceed the segme
 <br>
 With the material variables defined the next step is to use the solve method and write a vtk type of file, a typical one for simulated geometries, after that you will get the pin cell reactor simulated:
 <p align="center">
-  <img src="images/pincell-segments.png" width="350" alt="accessibility text">
+  <img src="images/pin-cell-reactor.png" width="350" alt="accessibility text">
   </p>

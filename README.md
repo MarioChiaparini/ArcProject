@@ -13,3 +13,7 @@ Where I defined the number of azimutal angles (nφ) as 32, the azimutal spacing 
 <p align="center">
 <img src="pincell-tracks.png" width="350" alt="accessibility text">
 </p>
+A variable called "tr" will get the method TrackGenerator() to proceed the segmentation with the function segmentize!(tg):
+<p align="center">
+  
+  </p>
